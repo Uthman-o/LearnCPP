@@ -1,0 +1,4 @@
+/home/navlab_uo/CLionProjects/my_first_library/build/CMakeFiles/tools.dir
+/home/navlab_uo/CLionProjects/my_first_library/build/CMakeFiles/main.dir
+/home/navlab_uo/CLionProjects/my_first_library/build/CMakeFiles/edit_cache.dir
+/home/navlab_uo/CLionProjects/my_first_library/build/CMakeFiles/rebuild_cache.dir

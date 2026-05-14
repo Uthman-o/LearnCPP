@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/navlab_uo/CLionProjects/my_first_library/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/tools.dir/tools.cpp.o -c /home/navlab_uo/CLionProjects/my_first_library/tools.cpp",
+  "file": "/home/navlab_uo/CLionProjects/my_first_library/tools.cpp"
+},
+{
+  "directory": "/home/navlab_uo/CLionProjects/my_first_library/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/main.dir/main.cpp.o -c /home/navlab_uo/CLionProjects/my_first_library/main.cpp",
+  "file": "/home/navlab_uo/CLionProjects/my_first_library/main.cpp"
+}
+]
