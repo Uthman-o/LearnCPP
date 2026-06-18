@@ -4,13 +4,13 @@
 using namespace std;
 
 int main(int argc, char const *argv[]) {
-  int a = 3;
-  int b = 5;
+    int a = 3;
+    int b = 5;
 
-  cout << a << ' ' << b << '\n';
+    cout << a << ' ' << b << '\n';
 
-  swap(a, b);
+    swap(a, b);
 
-  cout << a << ' ' << b << endl;
-  return 0;
+    cout << a << ' ' << b << endl;
+    return 0;
 }
