@@ -78,6 +78,5 @@ int main() {
     int m = s.orangesRotting(gridSample);
 
     cout << m << " minutes" << endl;
-
     return 0;
 }
