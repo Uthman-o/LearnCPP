@@ -15,6 +15,8 @@ class TwoSum {
 
             if (seen.find(complement) != seen.end()) {
                 return {seen[complement], i};
+                //  return nums
+                //return {complement, nums[i]};
             }
             seen[nums[i]] = i;
         }

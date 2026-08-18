@@ -14,7 +14,7 @@ class SlidingWindowMaximum {
         vector<int> result;
 
         for (int i = 0; i < nums.size(); ++i) {
-            // Remove index outside of current SlidingWindowmaximum
+            // Remove index outside of current SlidingWindowMaximum
             if (!dq.empty() && dq.front() <= i - k) {
                 dq.pop_front();
             }
